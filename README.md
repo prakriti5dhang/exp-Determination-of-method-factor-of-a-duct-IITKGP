@@ -1,2 +1,42 @@
-# exp-Determination-of-method-factor-of-a-duct-IITKGP
-Mine Automation &amp; Virtual Reality Virtual Laboratory Experiment 2 Determination of method factor of a duct IITKGP
+
+
+## Introduction
+
+<div align="center">
+<img src="experiment/images/iitkgp.png" width="10%">
+</div>
+
+<b>Discipline | <b> Mining Engineering  
+:--|:--|
+<b> Lab | <b> **Mine Automation & Virtual Reality**
+<b> Experiment|     <b> **Determination of method factor of a duct and Experiment 2**
+
+
+### About the Experiment 
+
+<!--Fill a brief description of this experiment here-->
+
+<b>Name of Developer | <b> **Prof. Debashish Chakravarty**
+:--|:--|
+<b> Institute | <b>  **Indian Institute of Technology Kharagpur**
+<b> Email id|     <b>  **dc@mining.iitkgp.ernet.in**
+<b> Department |  **Department of Minning Engineering**
+<b>Webpage| <b> [http://www.iitkgp.ac.in/cv/mi-dc](http://www.iitkgp.ac.in/cv/mi-dc)
+
+<b>Name of Developer | <b> **Prof. Biswajit Samanta**
+<b> Institute | <b>  **Indian Institute of Technology Kharagpur**
+<b> Email id|     <b>  **samantab@mining.iitkgp.ernet.in**
+<b> Department |  **Department of Minning Engineering**
+<b>Webpage| <b> [http://www.iitkgp.ac.in/cv/mi-samantab](http://www.iitkgp.ac.in/cv/mi-samantab)
+
+### Contributors List
+
+SrNo | Name | VLabs Developer or Integration Engineer | Designation | Department| Institute
+:--|:--|:--|:--|:--|:--|
+1 | **Prakriti Dhang** | Developer and Integration | Project Staff- Technical | Department of Mechanical Engineering | IIT Kharagpur |
+2 | **Mou Samanta** | Developer | Senior Project Assistant | Department of Mechanical Engineering | IIT Kharagpur | 
+3 | **Mitrajit Samanta** | Integration | Senior Project Officer | Department of Mechanical Engineering | IIT Kharagpur | 
+
+
+
+
