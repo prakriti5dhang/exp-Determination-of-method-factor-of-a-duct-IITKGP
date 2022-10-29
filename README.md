@@ -24,6 +24,7 @@
 <b>Webpage| <b> [http://www.iitkgp.ac.in/cv/mi-dc](http://www.iitkgp.ac.in/cv/mi-dc)
 
 <b>Name of Developer | <b> **Prof. Biswajit Samanta**
+:--|:--|
 <b> Institute | <b>  **Indian Institute of Technology Kharagpur**
 <b> Email id|     <b>  **samantab@mining.iitkgp.ernet.in**
 <b> Department |  **Department of Minning Engineering**
