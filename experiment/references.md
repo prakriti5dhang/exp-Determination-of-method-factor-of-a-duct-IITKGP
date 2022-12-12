@@ -1,31 +1,32 @@
 ## References
 #### Books
-- 
--
--
+- Mine Environment and Ventilation. G.B. Mishra (2007).
 
 
-#### Papers
-- 
-- 
-- 
--  
+## People
 
+#### Subject Matter Experts 
 
-# People
+<!--Fill a brief description of this experiment here-->
 
-<b>Name of Developer | <b> **Prof. C S Kumar**
+<b>Name of Developer | <b> **Prof. Debashish Chakravarty**
 :--|:--|
 <b> Institute | <b>  **Indian Institute of Technology Kharagpur**
-<b> Email id|     <b>  **kumar@mech.iitkgp.ac.in**
-<b> Department |  **Department of Mechanical Engineering**
-<b>Webpage| <b> [http://facweb.iitkgp.ernet.in/~cskumar/](http://facweb.iitkgp.ernet.in/~cskumar/)
+<b> Email id|     <b>  **dc@mining.iitkgp.ernet.in**
+<b> Department |  **Department of Mining Engineering**
+<b>Webpage| <b> [http://www.iitkgp.ac.in/cv/mi-dc](http://www.iitkgp.ac.in/cv/mi-dc)
 
+<b>Name of Developer | <b> **Prof. Biswajit Samanta**
+:--|:--|
+<b> Institute | <b>  **Indian Institute of Technology Kharagpur**
+<b> Email id|     <b>  **samantab@mining.iitkgp.ernet.in**
+<b> Department |  **Department of Mining Engineering**
+<b>Webpage| <b> [http://www.iitkgp.ac.in/cv/mi-samantab](http://www.iitkgp.ac.in/cv/mi-samantab)
 
-## Contributors list
+#### Contributors List
 
 SrNo | Name | VLabs Developer or Integration Engineer | Designation | Department| Institute
 :--|:--|:--|:--|:--|:--|
-1 | **Ujjal Dey** | Developer | Junior Research Fellow | Department of Mechanical Engineering | IIT Kharagpur | 
-2 | **Pabitra Kumar Jana** | Integration | Senior Project Officer | Department of Mechanical Engineering | IIT Kharagpur | 
-2 | **Aditya Kameswara Rao Nandula** | Integration | Senior Project Officer | Department of Mechanical Engineering | IIT Kharagpur | 
+1 | **Mou Samanta** | Developer | Senior Project Assistant | Department of Mechanical Engineering | IIT Kharagpur | 
+2 | **Mitrajit Samanta** | Integration | Senior Project Officer | Department of Mechanical Engineering | IIT Kharagpur | 
+3 | **Prakriti Dhang** | Developer and Integration | Project Staff- Technical | Department of Mechanical Engineering |IIT Kharagpur | 

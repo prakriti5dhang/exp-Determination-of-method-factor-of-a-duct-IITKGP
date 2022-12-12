@@ -6,13 +6,14 @@
 <img src="experiment/images/iitkgp.png" width="10%">
 </div>
 
+### About the Experiment
 <b>Discipline | <b> Mining Engineering  
 :--|:--|
 <b> Lab | <b> **Mine Automation & Virtual Reality**
 <b> Experiment|     <b> **Determination of method factor of a duct and Experiment 2**
 
 
-### About the Experiment 
+### Subject Matter Experts 
 
 <!--Fill a brief description of this experiment here-->
 
@@ -34,9 +35,9 @@
 
 SrNo | Name | VLabs Developer or Integration Engineer | Designation | Department| Institute
 :--|:--|:--|:--|:--|:--|
-1 | **Prakriti Dhang** | Developer and Integration | Project Staff- Technical | Department of Mechanical Engineering | IIT Kharagpur |
-2 | **Mou Samanta** | Developer | Senior Project Assistant | Department of Mechanical Engineering | IIT Kharagpur | 
-3 | **Mitrajit Samanta** | Integration | Senior Project Officer | Department of Mechanical Engineering | IIT Kharagpur | 
+1 | **Mou Samanta** | Developer | Senior Project Assistant | Department of Mechanical Engineering | IIT Kharagpur | 
+2 | **Mitrajit Samanta** | Integration | Senior Project Officer | Department of Mechanical Engineering | IIT Kharagpur | 
+3 | **Prakriti Dhang** | Developer and Integration | Project Staff- Technical | Department of Mechanical Engineering |IIT Kharagpur | 
 
 
 
