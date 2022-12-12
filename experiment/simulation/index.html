@@ -40,7 +40,8 @@
 				</div><!-- end of .yesDiv -->
 				<div class="graphDiv">
 					For Plotting the graph for methof factor, please click the button
-					<input type="button" name="graphBttn" id="graphBttn" value="Show Graph" />
+					<input type="button" name="graphBttn" id="graphBttn" onclick="showgraph();" value="Show Graph" />
+					<div id="myPlot"   style="height:400px; width:400px;  display: block;"></div>
 				</div><!-- end of .yesDiv -->
 			</div><!-- end of .ductDiv -->
 		</div><!-- end of .leftContentSimulator -->                
@@ -96,7 +97,7 @@
 			</div><!-- end of .aniDiv -->
 			
 			<h2>Observation Table</h2>
-			<table width="100%" class="mesTable addTableData">
+			<table width="100%" id="table" class="mesTable addTableData">
 			  <thead>
 				  <tr>
 					<th scope="col">Average Velocity</th>
@@ -117,6 +118,7 @@
 	<!-- Add JS at the bottom of HTML file --> 
 	<script src="js/modernizr-1.5.min.js" type="text/javascript"></script>
     <script src="js/jquery-1.7.1.min.js"></script>
+	<script src='https://cdn.plot.ly/plotly-2.16.1.min.js'></script>
     <script src="js/main.js"></script>
 		
 </body>

@@ -212,3 +212,36 @@
 	
 });
 
+var xArray=[];
+var yArray=[];
+var rows;
+
+function showgraph(){
+
+var otable= document.getElementById('table');
+alert(otable.rows.length);
+for (var tabrowindex = 1; tabrowindex < otable.rows.length; tabrowindex++) {
+	var rwe1 = otable.rows[tabrowindex].cells;
+	 
+	//dataPointai.push( {  y: parseFloat(rwe1[1].innerHTML), x:parseFloat(rwe1[2].innerHTML)});
+	xArray.push(parseFloat(rwe1[1].innerHTML));
+	yArray.push(parseFloat(rwe1[0].innerHTML));
+	
+}
+
+var data = [
+	{x:xArray, y:yArray, mode:"markers"}
+	
+  ];
+  
+  var layout = {
+	xaxis: {range: [0, 10],dtick: 1, title: "Central Velocity "},
+	yaxis: {range: [1, 10],dtick: 1, title: "Average Velocity"},  
+	title: "Central Velocity Vs Average Velocity"
+  };
+  
+  Plotly.newPlot("myPlot", data, layout);
+
+  
+}
+
